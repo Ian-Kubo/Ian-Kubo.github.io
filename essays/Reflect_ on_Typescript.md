@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/software-engineering-banner2400.webp>
+<img width="200px" class="rounded float-start pe-4" src="../img/software.png">
 
 *Just Do It - Nike*
 
