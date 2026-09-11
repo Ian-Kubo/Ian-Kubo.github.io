@@ -13,11 +13,11 @@ labels:
 
 ## Why Smart Questions Matter
 
-  Software engineering is often described as a technical discipline, but technical knowledge alone is not enough to become an effective software engineer. Programmers spend a significant amount of time communicating with other people: teammates, users, documentation authors, maintainers, and online communities. One of the most important forms of this communication is asking for help. A programmer may have excellent technical ability but still waste considerable time if they cannot explain a problem clearly enough for another person to understand and reproduce it.
+  Software engineering is often described as a technical field, but technical knowledge alone is not enough to become an effective software engineer. Programmers spend a significant amount of time communicating with other people: teammates, users, documentation authors, maintainers, and online communities. One of the most important forms of this communication is asking for help. A programmer may have excellent technical ability but still waste considerable time if they cannot explain a problem clearly enough for another person to understand and reproduce it.
   
-  Eric Raymond's essay, "[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," provides a useful framework for thinking about this problem. Raymond argues that the quality of the answer someone receives depends significantly on the quality of the question. His recommendations include doing research before asking, describing the problem precisely, reporting relevant symptoms rather than assumptions, providing enough information to reproduce the problem, stating the desired result, and making the question easy for another person to answer. 
+  Eric Raymond's essay, "[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," provides a useful tool for thinking about this problem. Raymond argues that the quality of the answer someone receives depends significantly on the quality of the question. His recommendations include doing research before asking, describing the problem precisely, reporting relevant issues rather than blind assumptiobns, providing enough information to reproduce the problem, stating the desired result, and making the question easy for another person to answer. 
 
-  Stack Overflow provides an excellent environment for seeing these principles in practice. The contrast between a well-constructed question and a poorly constructed one demonstrates that asking questions is itself a technical skill. The two questions examined below show how the amount and organization of information supplied by the questioner can directly affect the efficiency and usefulness of the community's response.
+  Stack Overflow provides an excellent environment for seeing these principles in practice. The contrast between a well-constructed question and a poorly constructed one demonstrates that asking questions is itself an important skill. The two questions examined below show how the amount and organization of information supplied by the person asking the question can directly affect the efficiency and usefulness of the community's response.
 
 ## What Exactly is a Smart Question?
 
@@ -27,11 +27,11 @@ labels:
 
 # Case Study Not-So-Smart Question 
 
-The Stack Overflow question "extract duplicate characters from a string](https://stackoverflow.com/questions/76677968/extract-duplicate-characters-from-a-string)" is a good example of a question that does not follow Eric Raymond's guidelines for asking questions the smart way. The question was posted by a beginner asking for help with a JavaScript homework assignment. The author explains that they need to extract duplicate characters from a string and put them into another string. They provide the example "love to learn javascript" and state that the resulting string should be "love tarnjscip". However, the author also explicitly says, "I didn't made any try as I'm a beginner and I don't have an initial idea how to start."
+The Stack Overflow question "[extract duplicate characters from a string](https://stackoverflow.com/questions/76677968/extract-duplicate-characters-from-a-string)" is a good example of a question that does not follow Eric Raymond's guidelines for asking questions the smart way. The question was posted by a beginner asking for help with a JavaScript homework assignment. The author explains that they need to extract duplicate characters from a string and put them into another string. They provide the example "love to learn javascript" and state that the resulting string should be "love tarnjscip". However, the author also explicitly says, "I didn't made any try as I'm a beginner and I don't have an initial idea how to start."
 
 The Question:
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Monkey.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/NOTSMART.png">
 
 This question is particularly interesting because the problem is not simply that the author is a beginner. Beginners are absolutely encouraged to ask questions. The larger problem is that the author has not yet attempted to solve the problem or sufficiently clarified what the desired result actually means. These issues conflict with several of Raymond's recommendations.
 
@@ -48,27 +48,17 @@ For a software engineer, learning to avoid this situation is valuable. The proce
 
 # Case Study: Smart Question 
 
+An example of a relatively smart Stack Overflow question is "[How can I know which junit-jupiter supports Java 8?](https://stackoverflow.com/questions/76677968/extract-duplicate-characters-from-a-string)." The developer explains that they are working with Java 8 and are trying to determine which version of JUnit Jupiter is compatible. They provide their build.gradle, a small test class, the JUnit dependency they tried, and the complete Gradle error showing that the JUnit Platform could not be loaded. They also explain what they have already investigated and why they are confused about the relationship between JUnit versions and Java versions. This follows several of Eric Raymond's recommendations because the author gives specific technical context, includes relevant code and error output, and describes both what they are trying to accomplish and what they have already attempted. 
 
+The question is especially useful as a "smart question" example because the author does not simply ask, “Which JUnit version should I use?” Instead, they explain the reasoning behind the question and provide evidence from their actual project. For example, they explain that JUnit 6 requires Java 17, that they are intentionally staying on Java 8, and that they tried JUnit 5.10.1 but encountered a Gradle test-executor error. This givesenough information to distinguish between Java/JUnit version compatibility and the missing JUnit Platform launcher. The response was therefore able to address the actual problem rather than asking the author for basic information first. The answer explains that JUnit 5.x supports Java 8, while JUnit 6 requires Java 17, and then identifies the missing launcher dependency as the reason the test executor failed. 
 
-
+Although the question was later closed, I would still consider it a useful example of a smart question. The person asking the question did many things Raymond recommends: they showed their work, provided the relevant environment and configuration, included the exact error message, and explained their desired outcome. The resulting discussion also produced a specific and educational answer rather than a vague suggestion. The main takeaway is that smart questions reduce the amount of guessing a person asnwering must do. Instead of making the community reconstruct the problem, the developer supplied enough evidence for the responder to diagnose the situation and explain both the immediate fix and the underlying issue.
 
 # Why This Matters for Software Engineers and Insights 
 
 Smart questions matter because software development is rarely an individual activity. Even when a programmer is working alone, they depend on documentation, libraries, open-source projects, search engines, colleagues, and developer communities. The ability to communicate a problem efficiently therefore directly affects productivity.
 
-A poorly constructed question transfers unnecessary work to the person being asked for help. The answerer must first determine what the problem actually is, what the desired behavior should be, what environment is involved, and which portions of the code matter. Sometimes the answerer has to ask several follow-up questions before meaningful debugging can begin.
-
-A well-constructed question performs much of this work in advance.
-
-This does not mean that inexperienced programmers should avoid asking questions. Raymond's essay is not an argument that beginners should already know everything. Rather, it encourages beginners to demonstrate that they have made a serious attempt to understand the problem. Raymond argues that good questions can be interesting and valuable to the community because they stimulate understanding and can reveal problems that others have not noticed. 
-
-There is also a long-term benefit. A programmer who learns to formulate a reproducible example, identify expected versus actual behavior, check documentation, and report relevant environmental information is also learning how to debug. The skills required to ask a smart question are closely related to the skills required to solve a problem independently.
-
-# Conclusion 
-
-The most important insight I gained from comparing these questions is that the quality of a question is partly determined by how much uncertainty it removes for the person answering it.
-
-Before this comparison, it would be easy to think that a "good question" simply means being polite and providing a lot of code. The examples show that neither is sufficient. The Seaborn question is effective not because it is long, but because almost every piece of information has a purpose. The matrix, code, expected behavior, actual behavior, library versions, and research information all help narrow down the possible explanation.The Java question demonstrates the opposite. More code does not necessarily make a question better. A programmer can provide an entire program and still leave the most important question unanswered: What exactly is going wrong?I also learned that a minimal reproducible example is more than a Stack Overflow rule. Creating one is a practical debugging technique. If I cannot reduce a problem to a small example, I may not yet understand which part of my program is actually responsible for the problem.Finally, I learned that smart questions respect the time of the people providing help. Online technical communities consist of people who are volunteering their knowledge. Providing a focused question does not guarantee an answer, but it makes it substantially easier for someone knowledgeable to investigate the problem. It also makes the resulting answer more useful to future programmers who encounter the same issue.
+A poorly constructed question transfers unnecessary work to the person being asked for help. The answerer must first determine what the problem actually is, what the desired behavior should be, what environment is involved, and which portions of the code matter. Sometimes the answerer has to ask several follow-up questions before meaningful debugging can begin. The most important insight I gained from comparing these questions is that the quality of a question is determined by how much detail the author puts into it. Before this comparison, it would be easy to think that a "good question" simply means being polite and providing a lot of code, but the smart questions format helps create even better questions.
 
 Note: CHATGPT was used to polish my work slightly by helping with grammar and formatting. 
 
