@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Ian Kubo's Reflection on Typescript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2026-09-10
 published: true
 labels:
-  - Engineering
+  - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
