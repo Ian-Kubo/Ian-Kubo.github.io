@@ -9,7 +9,9 @@ labels:
   - Computer Science
 ---
 
+*Just Do It - Nike*
 
+\tTypeScript is a useful programming language, especially for those who have an understanding of JavaScript. Compared to the other languages I have learned (Java, python, C), TypeScript's syntax feels rather intuitive and easy to handle. In fact, TypeScript's feature of static typing makes it simple to understand what type of data a certain variable or function should be using. As I was becoming more familiar with the TypeScript, I realized it is a powerful tool to have as a future software engineer.\n 
 
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
