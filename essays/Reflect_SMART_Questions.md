@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflections on SMART Questions"
+title: "So Akamai"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-10
 published: true
@@ -12,7 +12,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 ## Why Smart Questions Matter
-Note: CHATGPT was used to polish my work slightly. 
+Note: CHATGPT was used to polish my work slightly by helping with grammar and formatting. 
   Software engineering is often described as a technical discipline, but technical knowledge alone is not enough to become an effective software engineer. Programmers spend a significant amount of time communicating with other people: teammates, users, documentation authors, maintainers, and online communities. One of the most important forms of this communication is asking for help. A programmer may have excellent technical ability but still waste considerable time if they cannot explain a problem clearly enough for another person to understand and reproduce it.
 
   Eric Raymond's essay, How To Ask Questions The Smart Way, provides a useful framework for thinking about this problem. Raymond argues that the quality of the answer someone receives depends significantly on the quality of the question. His recommendations include doing research before asking, describing the problem precisely, reporting relevant symptoms rather than assumptions, providing enough information to reproduce the problem, stating the desired result, and making the question easy for another person to answer. 
