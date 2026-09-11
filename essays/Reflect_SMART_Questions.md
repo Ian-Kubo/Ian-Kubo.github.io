@@ -27,9 +27,7 @@ labels:
 
 # Case Study Not-So-Smart Question 
 
-URL: [extract duplicate characters from a string](https://stackoverflow.com/questions?tab=newest&page=1609263)
-
-The Stack Overflow question "extract duplicate characters from a string](https://stackoverflow.com/questions?tab=newest&page=1609263)" is a good example of a question that does not follow Eric Raymond's guidelines for asking questions the smart way. The question was posted by a beginner asking for help with a JavaScript homework assignment. The author explains that they need to extract duplicate characters from a string and put them into another string. They provide the example "love to learn javascript" and state that the resulting string should be "love tarnjscip". However, the author also explicitly says, "I didn't made any try as I'm a beginner and I don't have an initial idea how to start."
+The Stack Overflow question "extract duplicate characters from a string](https://stackoverflow.com/questions/76677968/extract-duplicate-characters-from-a-string)" is a good example of a question that does not follow Eric Raymond's guidelines for asking questions the smart way. The question was posted by a beginner asking for help with a JavaScript homework assignment. The author explains that they need to extract duplicate characters from a string and put them into another string. They provide the example "love to learn javascript" and state that the resulting string should be "love tarnjscip". However, the author also explicitly says, "I didn't made any try as I'm a beginner and I don't have an initial idea how to start."
 
 The Question:
 
