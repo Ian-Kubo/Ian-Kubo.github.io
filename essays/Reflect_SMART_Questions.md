@@ -9,12 +9,12 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Monkey.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/Monkey.png">
 
 ## Why Smart Questions Matter
-Note: CHATGPT was used to polish my work slightly by helping with grammar and formatting. 
-  Software engineering is often described as a technical discipline, but technical knowledge alone is not enough to become an effective software engineer. Programmers spend a significant amount of time communicating with other people: teammates, users, documentation authors, maintainers, and online communities. One of the most important forms of this communication is asking for help. A programmer may have excellent technical ability but still waste considerable time if they cannot explain a problem clearly enough for another person to understand and reproduce it.
 
+  Software engineering is often described as a technical discipline, but technical knowledge alone is not enough to become an effective software engineer. Programmers spend a significant amount of time communicating with other people: teammates, users, documentation authors, maintainers, and online communities. One of the most important forms of this communication is asking for help. A programmer may have excellent technical ability but still waste considerable time if they cannot explain a problem clearly enough for another person to understand and reproduce it.
+  
   Eric Raymond's essay, How To Ask Questions The Smart Way, provides a useful framework for thinking about this problem. Raymond argues that the quality of the answer someone receives depends significantly on the quality of the question. His recommendations include doing research before asking, describing the problem precisely, reporting relevant symptoms rather than assumptions, providing enough information to reproduce the problem, stating the desired result, and making the question easy for another person to answer. 
 
   Stack Overflow provides an excellent environment for seeing these principles in practice. The contrast between a well-constructed question and a poorly constructed one demonstrates that asking questions is itself a technical skill. The two questions examined below show how the amount and organization of information supplied by the questioner can directly affect the efficiency and usefulness of the community's response.
@@ -69,5 +69,7 @@ There is also a long-term benefit. A programmer who learns to formulate a reprod
 The most important insight I gained from comparing these questions is that the quality of a question is partly determined by how much uncertainty it removes for the person answering it.
 
 Before this comparison, it would be easy to think that a "good question" simply means being polite and providing a lot of code. The examples show that neither is sufficient. The Seaborn question is effective not because it is long, but because almost every piece of information has a purpose. The matrix, code, expected behavior, actual behavior, library versions, and research information all help narrow down the possible explanation.The Java question demonstrates the opposite. More code does not necessarily make a question better. A programmer can provide an entire program and still leave the most important question unanswered: What exactly is going wrong?I also learned that a minimal reproducible example is more than a Stack Overflow rule. Creating one is a practical debugging technique. If I cannot reduce a problem to a small example, I may not yet understand which part of my program is actually responsible for the problem.Finally, I learned that smart questions respect the time of the people providing help. Online technical communities consist of people who are volunteering their knowledge. Providing a focused question does not guarantee an answer, but it makes it substantially easier for someone knowledgeable to investigate the problem. It also makes the resulting answer more useful to future programmers who encounter the same issue.
+
+Note: CHATGPT was used to polish my work slightly by helping with grammar and formatting. 
 
   
