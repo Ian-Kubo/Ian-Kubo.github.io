@@ -15,7 +15,7 @@ labels:
 
   Software engineering is often described as a technical discipline, but technical knowledge alone is not enough to become an effective software engineer. Programmers spend a significant amount of time communicating with other people: teammates, users, documentation authors, maintainers, and online communities. One of the most important forms of this communication is asking for help. A programmer may have excellent technical ability but still waste considerable time if they cannot explain a problem clearly enough for another person to understand and reproduce it.
   
-  Eric Raymond's essay, How To Ask Questions The Smart Way, provides a useful framework for thinking about this problem. Raymond argues that the quality of the answer someone receives depends significantly on the quality of the question. His recommendations include doing research before asking, describing the problem precisely, reporting relevant symptoms rather than assumptions, providing enough information to reproduce the problem, stating the desired result, and making the question easy for another person to answer. 
+  Eric Raymond's essay, "[How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)," provides a useful framework for thinking about this problem. Raymond argues that the quality of the answer someone receives depends significantly on the quality of the question. His recommendations include doing research before asking, describing the problem precisely, reporting relevant symptoms rather than assumptions, providing enough information to reproduce the problem, stating the desired result, and making the question easy for another person to answer. 
 
   Stack Overflow provides an excellent environment for seeing these principles in practice. The contrast between a well-constructed question and a poorly constructed one demonstrates that asking questions is itself a technical skill. The two questions examined below show how the amount and organization of information supplied by the questioner can directly affect the efficiency and usefulness of the community's response.
 
@@ -23,15 +23,17 @@ labels:
 
   Raymond's central idea is that asking for technical help should not be treated as simply demanding that somebody else solve a problem. Before asking, a programmer should search existing resources, experiment, inspect documentation, and attempt to isolate the problem. When the question is finally posted, the question should demonstrate this effort. Raymond specifically recommends being precise and informative, describing symptoms rather than guesses, explaining the desired outcome, and providing a reproducible example when code is involved. 
 
-  These principles are also reflected in Stack Overflow's own guidance. Stack Overflow recommends explaining how the problem was encountered, describing difficulties encountered while trying to solve it, and providing enough code for others to reproduce the problem. It specifically warns against simply posting an entire program containing large amounts of irrelevant material. 
-
   A smart question therefore reduces the amount of work required from the person answering it. Instead of making an expert reconstruct the entire situation, the question provides the relevant facts up front. This does not mean that a good question must be long. In fact, a good question can be quite short if it contains the right information.
 
 # Case Study Not-So-Smart Question 
 
-URL: [StackOverFlow](https://stackoverflow.com/questions?tab=newest&page=1609263)
+URL: [extract duplicate characters from a string](https://stackoverflow.com/questions?tab=newest&page=1609263)
 
-The Stack Overflow question "extract duplicate characters from a string" is a strong example of a question that does not follow Eric Raymond's guidelines for asking questions the smart way. The question was posted by a beginner asking for help with a JavaScript homework assignment. The author explains that they need to extract duplicate characters from a string and put them into another string. They provide the example "love to learn javascript" and state that the resulting string should be "love tarnjscip". However, the author also explicitly says, "I didn't made any try as I'm a beginner and I don't have an initial idea how to start."
+The Stack Overflow question "extract duplicate characters from a string](https://stackoverflow.com/questions?tab=newest&page=1609263)" is a good example of a question that does not follow Eric Raymond's guidelines for asking questions the smart way. The question was posted by a beginner asking for help with a JavaScript homework assignment. The author explains that they need to extract duplicate characters from a string and put them into another string. They provide the example "love to learn javascript" and state that the resulting string should be "love tarnjscip". However, the author also explicitly says, "I didn't made any try as I'm a beginner and I don't have an initial idea how to start."
+
+The Question:
+
+<img width="400px" class="rounded float-start pe-4" src="../img/Monkey.png">
 
 This question is particularly interesting because the problem is not simply that the author is a beginner. Beginners are absolutely encouraged to ask questions. The larger problem is that the author has not yet attempted to solve the problem or sufficiently clarified what the desired result actually means. These issues conflict with several of Raymond's recommendations.
 
@@ -43,7 +45,7 @@ That distinction fits the purpose of the assignment particularly well. Raymond's
 
 This example therefore demonstrates an important lesson: the responsibility for communicating a programming problem clearly belongs primarily to the person asking the question. If the programmer has not determined what the expected behavior actually is, has not attempted a solution, and cannot explain where the attempt failed, the people trying to help must first solve the communication problem before they can solve the programming problem.
 
-For a software engineer, learning to avoid this situation is valuable. The process of defining the expected behavior, attempting a solution, identifying the failure, and communicating that failure precisely is not just good Stack Overflow etiquette—it is good software engineering.
+For a software engineer, learning to avoid this situation is valuable. The process of defining the expected behavior, attempting a solution, identifying the failure, and communicating that failure precisely is not just good Stack Overflow etiquette, it is good software engineering.
 
 
 # Case Study: Smart Question 
