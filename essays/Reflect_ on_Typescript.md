@@ -11,46 +11,13 @@ labels:
 
 *Just Do It - Nike*
 
-\tTypeScript is a useful programming language, especially for those who have an understanding of JavaScript. Compared to the other languages I have learned (Java, python, C), TypeScript's syntax feels rather intuitive and easy to handle. In fact, TypeScript's feature of static typing makes it simple to understand what type of data a certain variable or function should be using. As I was becoming more familiar with the TypeScript, I realized it is a powerful tool to have as a future software engineer.\n 
+  TypeScript is a useful programming language, especially for those who have an understanding of JavaScript. Compared to the other languages I have learned (Java, python, C), TypeScript's syntax feels rather intuitive and easy to handle. In fact, TypeScript's feature of static typing makes it simple to understand what type of data a certain variable or function should be using. As I was becoming more familiar with the TypeScript, I realized it is a powerful tool to have as a future software engineer.
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Learning is a Journey
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+  From the modules previously done, I mainly learned how Typescript builds on JavaScript. I also learned that TypeScript can catch certain errors before the program is run by checking the types of variables and function parameters. This can be helpful because it allows programmers to find mistakes earlier instead of waiting until the program runs. From a software engineering perspective, I think TypeScript is a good programming language. The type system can make larger programs easier to organize, maintain, and debug, especially when multiple programmers are working on the same project. TypeScript also allows developers to use many of the features of JavaScript while adding additional structure. Although TypeScript can sometimes require more code and may feel more difficult for beginners, I think the benefits outweigh the disadvantages. Overall, I think TypeScript is a good choice for developing larger and more reliable software.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+  ## Athletic Programming and WODS
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+    Athletic Software Engineering is an interesting way to learn because it dials in on actually practicing software engineering skills instead of just learning about the concepts. I found the practice WODS to be useful so far because they gave me a chance to work through problems on my own first and become comfortable with the material before being quizzed. The timed aspect also helped me understand what I actually knew and what I still needed to practice. Repeating the WODs was especially helpful because it allowed me to become more familiar with the code and improve my ability to solve problems without relying on the solution. Although sometimes having timed WODS can be stressful and create a lot of pressure, these skills are absolutely necessary to get good at. Overall, I think this learning style could work well for me as long as I manage my time and consistently practice. I like that the WODs give me a specific problem to solve rather than just asking me to memorize information. It can be stressful when I am not prepared, but I think that stress can also push me to improve and become more confident with programming. Since software engineering requires being able to solve problems and work under deadlines, I think Athletic Software Engineering is a useful way to prepare for real-world situations. The most important thing for me would be to use the practice WODs as actual training so that I feel prepared when it is time for the graded WOD.
 
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
