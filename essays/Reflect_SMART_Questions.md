@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Monkey.png">
 
 ## Why Smart Questions Matter
 Note: CHATGPT was used to polish my work slightly by helping with grammar and formatting. 
