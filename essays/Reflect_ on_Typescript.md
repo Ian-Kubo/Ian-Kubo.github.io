@@ -9,6 +9,8 @@ labels:
   - Computer Science
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/software-engineering-banner2400.webp>
+
 *Just Do It - Nike*
 
   TypeScript is a useful programming language, especially for those who have an understanding of JavaScript. Compared to the other languages I have learned (Java, python, C), TypeScript's syntax feels rather intuitive and easy to handle. In fact, TypeScript's feature of static typing makes it simple to understand what type of data a certain variable or function should be using. As I was becoming more familiar with the TypeScript, I realized it is a powerful tool to have as a future software engineer.
