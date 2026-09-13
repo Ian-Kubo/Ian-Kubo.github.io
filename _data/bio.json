@@ -2,17 +2,15 @@
   "basics": {
     "name": "Ian Kubo",
     "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/280248856?s=400&u=f53fc3a39c5ef63e1859a3f94876824ebc140112&v=4",
+    "picture": "https://avatars.githubusercontent.com/u/280248856?s=400&u=3475842d62732a26a9105ff1a00fcf89da472ee9&v=4",
     "email": "iank9@hawaii.edu",
     "phone": "808-445-7529",
     "website": "https://ian-kubo.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am currently studying for a B.S. in Computer Science at the University of Hawaii at Manoa. My expected graduation date is Spring 2028.",
+    "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ian-kubo", "url": "https://ian-kubo.github.io/" },
+      { "network": "linkedin", "username": "ian-kubo", "url": "www.linkedin.com/in/ian-kubo-56815a291" }
     ]
   },
   "interests": [
