@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: webscrape.png
+image: img/webscrape.png
 title: "MyProject"
 date: 2014
 published: true
