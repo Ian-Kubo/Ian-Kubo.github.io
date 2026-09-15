@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Journey.png">
+<img width="400px" class="img-fluid" src="../img/Journey.png">
 
 ## Life is a Journey, Not a Destination
 
