@@ -9,7 +9,7 @@
     "summary": "I am currently studying for a B.S. in Computer Science at the University of Hawaii at Manoa. My expected graduation date is Spring 2028.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "ian-kubo", "url": "https://ian-kubo.github.io/" },
+      { "network": "github", "username": "ian-kubo", "url": "https://github.com/Ian-Kubo/" },
       { "network": "linkedin", "username": "ian-kubo", "url": "https://www.linkedin.com/in/ian-kubo-56815a291/" }
     ]
   },
