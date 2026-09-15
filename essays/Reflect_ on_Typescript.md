@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Ian Kubo's Reflection on Typescript"
+title: "A Useful Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-10
 published: true
@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/software.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/software.png">
 
 *Just Do It - Nike*
 
