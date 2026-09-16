@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/webscrape.png
+image: img/Fishing.png
 title: "Something Fishy"
 date: 2026
 published: true
