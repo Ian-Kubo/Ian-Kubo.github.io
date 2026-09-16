@@ -11,13 +11,13 @@ labels:
 summary: "A Simple Fishing Game Developed for ICS211."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/FishBanner.jpg">
 
   Something Fishy is a two-person, turn-based fishing game that will definitely have you hooked! The goal of this game is to compete throughout the fishing season to--simply put it--fish! The "pond" contains varying fish population densities, and it is your job that your basket contains the largest fish. At the end of the season, the three largest catches from each payer are weighted, and the person with the highest average weight wins. 
 
   Get your tools out and reel in some fresh catches!
 
-  ## Game Details 
+## Game Details 
   This game is a 12-month (in-game)  competitive fishing tournament where players compete to catch the largest fish. At the start of each month, the fishpond is randomly populated with different indigenous fish. Smaller fish appear closer to the shore, while larger fish are more available in deeper waters. Players can observe the pond with varying levels of detail depending on distance- nearby fish are clearly visible while fish appear as shadows in murky waters, and fish in the deepest waters provide no information at all. Each player gets five actions per month, alternating turns, and can either spend an action to view pond information or cast a fishing line.
 When casting, players choose both a location and whether to use a previously caught fish as bait. Bait affects gameplay because fish have a chance to notice it, with the Oama species being more attractive than standard bait. Once a fish is triggered, a random outcome determines what happens next, with possible results including a successful catch, the line snapping, or even hooking unwanted items like garbage. If a fish is caught, the player must decide whether to keep it. Legal fish can be stored in the player’s inventory, while illegal catches result in penalties, adding a risk-reward element to every decision.
   At the end of each month, the cycle resets with a fresh population of fish and renewed turns for both players. This continues for 12 months in total, creating a long-term strategy game where players must balance risk, timing, and bait usage. The winner is determined at the end of the year by weighing the three largest fish each player has kept. The player with the highest total weight from their top three catches is declared the champion of the tournament!
