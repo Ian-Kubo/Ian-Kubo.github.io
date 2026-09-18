@@ -7,6 +7,7 @@ date: 2025
 published: True
 labels:
   - GitHub
+  - Food
 summary: "A Story of Making Great Meals."
 ---
 
@@ -16,7 +17,7 @@ summary: "A Story of Making Great Meals."
 
 ## House of Prime Rib At Home 
 
-  One of my family's favorite restuarants whenever we go to San Fransciso is called The House of Prime Rib. It has probably the most iconic prime rib in America--tableside cesar salad, the smell of potatoes and horseradish, a brooding but bustling atmosphere. It always brings back so many memories. 
+  One of my family's favorite restuarants whenever we go to San Fransciso is called The House of Prime Rib. It has probably the most iconic prime rib in America--tableside cesar salad, the smell of potatoes and horseradish, a brooding but bustling atmosphere. It always brings back so many memories. Learn more about House of Prime Rib [here](https://houseofprimerib.net/).
   
   So, last Thanksgiving, I decided to make my own primerib at home. The first thing I had to do was get the ingredients for the seasoning. I combined a hefty amount of salt with pepper, granulated garlic and onion, rosemary, and thyme. It already smelled like Thanksgiving. The star of the show was then chosen: a 15 lb beef roast from Costco (fat still on, of course). The dry rub seasoning was applied liberally around the entire hunk of meat and left marinating for a good 10 hours in the fridge. While the rib was resting, I prepped the other typical Thanksgiving dishes: yams with marshmallow topping, mash potatoes, stuffing, green bean casserole, pumpkin pie. 
   After letting the prime rib marinate in the fridge, it was finally time to cook it. The goal was a medium rare, or around 130F internal. Setting the oven temperature to a high 500 degrees, I roasted the rib for 5 minutes before immediately shutting off the oven and letting the prime rib sit in there for another 3 or so hours. This method works great for a crusty outside but near bloody inside--the perfect prime rib! 
