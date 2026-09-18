@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Plate.jpg
 title: "For the Love of Cooking"
 date: 2025
 published: True
