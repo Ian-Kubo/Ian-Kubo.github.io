@@ -10,9 +10,9 @@ labels:
   - Food
 summary: "A Story of Making Great Meals."
 ---
-
+<div class="text-center p-4">
 <img width="500px" class="img-fluid" src="../img/Ribs.png">
-
+</div>
   Cooking is one of my favorite hobbies, and food has always been an integral part of my life. However, unlike eating food, cooking the food takes alot of skill, patience, and perseverence. From choosing the right ingredients to mastering knife skills cooking really is a labor of love. Yet, every time I master a dish, I feel extremely accomplished and excited that I have developed new skills, learned something about a culture, or simply made something delicious!. In this project, I have highlighted an impactful meal that I have made. 
 
 ## House of Prime Rib At Home 
