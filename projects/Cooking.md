@@ -10,7 +10,7 @@ labels:
 summary: "A Story of Making Great Meals."
 ---
 
-<img class="img-fluid" src="../img/Rib.jpg">
+<img class="img-fluid" src="../img/Ribs.png">
 
   Cooking is one of my favorite hobbies, and food has always been an integral part of my life. However, unlike eating food, cooking the food takes alot of skill, patience, and perseverence. From choosing the right ingredients to mastering knife skills cooking really is a labor of love. Yet, every time I master a dish, I feel extremely accomplished and excited that I have developed new skills, learned something about a culture, or simply made something delicious!. In this project, I have highlighted an impactful meal that I have made. 
 
