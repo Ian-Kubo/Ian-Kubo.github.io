@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Tools of the Trade"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2026-09-23
+published: True
 labels:
-  - Engineering
+  - Computer Science
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
