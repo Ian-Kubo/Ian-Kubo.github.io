@@ -4,7 +4,7 @@ type: essay
 title: "Tools of the Trade"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-23
-published: False
+published: True
 labels:
   - Computer Science
 ---
