@@ -9,9 +9,9 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/error.webp">
+<img class="img-fluid" src="../img/error.webp">
 
-##Coding Rules
+## Coding Standards
 
 Coding standards have been ingrained into my programming journey since the beginning. My first use of a rigorous implementation of coding anaylsis software was through JUnit tests in Java. ESLint with VSCode is another code analysis plugin that makes it extremely useful to improve your code's quality and readability. Furthermore, having a code checker gives programmers a firm foundation on coding standards and could in fact help them better learn the language's syntax. After my first week of using ESlint and VSCode, I believe it's an extremely useful tool in software engineering because it sets a baseline standard for readable code, improves uniformity and structure, and sustains maintainability. 
 
