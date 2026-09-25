@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-<img class="img-fluid" src="../img/error.webp">
+<img class="img-fluid" width="500" height="200" src="../img/error.webp">
 
 ## Coding Standards
 
