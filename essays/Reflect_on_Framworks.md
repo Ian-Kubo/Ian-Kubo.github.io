@@ -18,6 +18,9 @@ One of the first things i noticed when using boostrap compared to just using pla
 
 When beginning with bootstrap, it was apparent that I had trouble with the logic of formatting the bootstrap code. From container classes to nav bars, I felt as though everything was thrown at me all at one time. It did not make intuitive sense on the wrapping of webpage content. It felt overwhelming with all the nested div tags. However, after watching several tutorials on bootstrag logic and practicing making simple navbars and basic webpages, all of it started to finally click. On top of the formatting, the multitude of class modifiers and properties can also feel quite overwhemling as a beginner. Also the syntax of adding these properties to these classes is quite relaxed as they are only separated by spaces and not commas like a parameter. It was quite fustrating to see this as a person who enjoys C and Java, where syntax is heavily emphasied.  
 
+## What I enjoyed:
+
+Eventually, after getting over the strong learning curve, I could finally see just how powerful bootstrap was for the software engineer. One thing that stood out to me was the easy and intuitive grid layout system that can be modified for different screen lengths. Putting simple 
 
 
 
