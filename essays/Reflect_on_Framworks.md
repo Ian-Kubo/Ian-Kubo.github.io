@@ -11,12 +11,13 @@ labels:
 ---
 
 <div align="center">
-  <img src="../img/original.png" width="400" height ="300" alt="Description">
-  <img src="../img/recreated.png" width="400" height ="300" alt="Description">
+  <img src="../img/original.png" width="400" height ="250" alt="Description">
+  <img src="../img/recreated.png" width="400" height ="250" alt="Description">
 
 </div>
-  <figcaption>Original is on the left, recreated is on the right</figcaption>
-
+<div align="center">
+Original is on the left, recreated is on the right
+</div>
 
 ## Introduction 
 
