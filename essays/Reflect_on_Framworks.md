@@ -10,7 +10,9 @@ labels:
   - Front-End
 ---
 
-<img class="img-fluid" width="500" height="200" src="../img/error.webp">
+<div align="center">
+  <img src="../img/error.webp" width="400" height ="400" alt="Description">
+</div>
 
 One of the first things i noticed when using boostrap compared to just using plain html and css was just how much more beautiful the pages looked. A large part of diving into front-end development is how to create a good-looking webpage. And bootstrap does just that. Although it is difficult to navigate all of bootstrap's features, you can't deny the good results it produces. Getting a feel of how bootstrap creates these websites is both a fun challenge and rewarding. I hope to continute to learn more about UI frameworks throughout my career. 
 
