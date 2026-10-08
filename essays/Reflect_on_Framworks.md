@@ -4,15 +4,18 @@ type: essay
 title: "The Beautiful World of UI"
 # All dates must be YYYY-MM-DD format!
 date: 2026-10-07
-published: False
+published: True
 labels:
   - Computer Science
   - Front-End
 ---
 
 <div align="center">
-  <img src="../img/error.webp" width="400" height ="400" alt="Description">
+  <img src="../img/original.png" width="400" height ="400" alt="Description">
+  <img src="../img/recreated.png" width="400" height ="400" alt="Description">
+
 </div>
+  <figcaption>Original is on the left, recreated is on the right</figcaption>
 
 ## 
 One of the first observations I noticed when using Boostrap 5 compared to using plain HTML and CSS was just how much more beautiful the pages I was creating looked. A crucial skill of working in front-end development is the ability to create not only functional webpages but also good looking and aesthetically pleasing ones. And while CSS may aid in the process, Bootstrap 5 makes that process more efficient. Although it was difficult to navigate all of Bootstrap's features in one week, I couldn't deny the good results it has produced for me so far. Getting a feel of how Bootstrap aids in website creation was a fun challenge with rewarding results. I hope to continue to learn more about UI frameworks throughout my schooling and career. 
